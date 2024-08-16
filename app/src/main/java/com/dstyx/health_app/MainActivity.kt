@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        // FIXME -- TEST
+        // FIXME -- TEST.
 
         // Login Button Click
         val loginBtn = findViewById<Button>(R.id.loginButton)
