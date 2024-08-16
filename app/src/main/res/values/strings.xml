@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Health_App</string>
+    <string name="username">Username</string>
+    <string name="login_title">Styx Health</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="createAccount">Create Account</string>
+    <string name="cancel">Cancel</string>
+    <string name="welcome">Welcome!</string>
+    <string name="logout">logout</string>
+</resources>
