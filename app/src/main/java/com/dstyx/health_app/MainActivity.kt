@@ -19,8 +19,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        // FIXME -- TEST
-
         // Login Button Click
         val loginBtn = findViewById<Button>(R.id.loginButton)
         loginBtn.setOnClickListener {
