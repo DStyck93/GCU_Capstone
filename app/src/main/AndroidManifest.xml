@@ -11,15 +11,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Health_App"
-        tools:targetApi="31">
+        >
         <activity
-            android:name=".Home"
+            android:name=".scenes.Home"
             android:exported="false" />
         <activity
-            android:name=".CreateAccount"
+            android:name=".scenes.CreateAccount"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".scenes.Login"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
